@@ -1,11 +1,14 @@
-=== Recent Posts Widget Extended ===
-Contributors: themejunkie, satrya
-Tags: recent posts, random posts, popular posts, thumbnails, widget, widgets, sidebar, excerpt, category, post tag, taxonomy, post type, post status, shortcode, multiple widgets
+=== Recent Posts Widget Extended for Visual Composer ===
+Contributors: themejunkie, satrya, SnakeMind
+Tags: recent posts, random posts, popular posts, thumbnails, widget, widgets, sidebar, excerpt, category, post tag, taxonomy, post type, post status, shortcode, multiple widgets, Visual Composer
 Requires at least: 4.5
 Tested up to: 4.8.2
 Stable tag: 0.9.9.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+=== WARNING: This rewrite to work with Visual Composer is WORK IN PROGRESS! ===
+=== At this moment this is NOT ready to function within Visual Composer yet!! ===
 
 Provides flexible and advanced recent posts. Display it via shortcode or widget with thumbnails, post excerpt, taxonomy and more.
 
